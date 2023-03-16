@@ -1,4 +1,4 @@
-from denoising_diffusion_pytorch import Unet, GaussianDiffusion, Trainer
+Import denoising_diffusion_pytorch
 
 model = Unet(
     dim = 64,
