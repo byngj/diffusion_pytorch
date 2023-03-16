@@ -1,4 +1,5 @@
-Import denoising_diffusion_pytorch
+import denoising_diffusion_pytorch
+import torch
 
 model = Unet(
     dim = 64,
